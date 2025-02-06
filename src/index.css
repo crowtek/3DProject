@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #f0f0f0;
+}
+
+body {
+  background: rgb(108, 108, 108);
+  background: radial-gradient(circle, rgb(30, 30, 30) 0%, rgba(0, 0, 0, 1) 100%);
+}
